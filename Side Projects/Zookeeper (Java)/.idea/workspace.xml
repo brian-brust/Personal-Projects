@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5993a88d-f2df-4bb5-8926-bfc5930023f4" name="Changes" comment="">
+      <change afterPath="$USER_HOME$/.vscode/extensions/yzane.markdown-pdf-1.4.4/node_modules/string/.idea/string.js.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Code Cache/js/3653004befb613c5_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Code Cache/js/c5ee479b63896921_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Code Cache/js/f20b05835d185b3f_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Google/Chrome/User Data/Default/Code Cache/js/f9380ad5b8d58b26_0" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2022.3/demo/IdeaLearningProject/.idea/IdeaLearningProject.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2022.3/demo/IdeaLearningProject/IdeaLearningProject.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IdeaIC2022.3/external_build_system/zookeeper (java).9d5ebe1a/project.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/Edge/User Data/BrowserMetrics-spare.pma" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/Edge/User Data/Default/load_statistics.db-shm" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/Edge/User Data/Default/load_statistics.db-wal" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/158c88d5d8fdeaecf8aeb5a6cbc57767e100297e.tbres" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/3b5d1d7afad7841f5243b2c2ff024c18209f83fe.tbres" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/a73a0b26791bdfacf27a0d40b97107e023766373.tbres" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/aa8a8f159d8575e5d5ec5e7b7f2990a74b1fdd6e.tbres" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/c935a10f4ce2cb1b1ba79f0785623923fd218389.tbres" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/eacd93355beaac74ad163c08b723f19c9067f9ec.tbres" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Microsoft/TokenBroker/Cache/fd78fab16979080ba83bc791f704514529713035.tbres" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/314559/c06be73ca34f4719951eda9001654273_1" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/Packages/Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy/LocalState/TargetedContentCache/v3/314559/ea11d595334d454794d6d62a9eda0906_1" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Local/atom/app-1.60.0/resources/app/apm/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Roaming/npm/node_modules/@vue/cli/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Roaming/npm/node_modules/@vue/cli/node_modules/defaults/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/AppData/Roaming/npm/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameRunner/GameRunner/GameRunner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/classes/java/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/classes/java/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/classes/java/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/generated/sources/headers/java/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/generated/sources/headers/java/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/generated/sources/headers/java/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/reports/tests/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/reports/tests/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/reports/tests/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/test-results/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/test-results/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/test-results/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/tmp/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/tmp/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple Chatty Bot (Java)/task/build/tmp/Simple_Chatty_Bot_(Java).Simple_Chatty_Bot__Java_-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Simple_Chatty_Bot_(Java).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Determine the output/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Determine_the_output.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Determine the output/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Determine_the_output.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Determine the output/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Determine_the_output.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Interval/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Interval.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Interval/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Interval.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Interval/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Interval.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Statements/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Statements/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Statements/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/The condition to travel around the world/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-The_condition_to_travel_around_the_world.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/The condition to travel around the world/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-The_condition_to_travel_around_the_world.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/The condition to travel around the world/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-The_condition_to_travel_around_the_world.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Theory/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Theory/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Conditional statement/Theory/Simple_Chatty_Bot_(Java).Topics-Conditional_statement-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Calculate the digit/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Calculate_the_digit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Calculate the digit/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Calculate_the_digit.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Calculate the digit/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Calculate_the_digit.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Desks/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Desks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Desks/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Desks.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Desks/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Desks.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/How many nuts each squirrel will get/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/How many nuts each squirrel will get/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/How many nuts each squirrel will get/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Squirrels and nuts/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Squirrels_and_nuts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Squirrels and nuts/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Squirrels_and_nuts.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Squirrels and nuts/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Squirrels_and_nuts.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Theory/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Theory/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Integer types and operations/Theory/Simple_Chatty_Bot_(Java).Topics-Integer_types_and_operations-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Check the value/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Check_the_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Check the value/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Check_the_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Check the value/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Check_the_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Existing operators/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Existing_operators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Existing operators/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Existing_operators.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Existing operators/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Existing_operators.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Groundhogs at a party/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Groundhogs_at_a_party.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Groundhogs at a party/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Groundhogs_at_a_party.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Groundhogs at a party/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Groundhogs_at_a_party.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Job offer/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Job_offer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Job offer/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Job_offer.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Job offer/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Job_offer.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Theory/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Theory/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Relational operators/Theory/Simple_Chatty_Bot_(Java).Topics-Relational_operators-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Hiring a chef/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Hiring_a_chef.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Hiring a chef/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Hiring_a_chef.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Hiring a chef/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Hiring_a_chef.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Printing strings in the same order/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Printing_strings_in_the_same_order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Printing strings in the same order/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Printing_strings_in_the_same_order.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Printing strings in the same order/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Printing_strings_in_the_same_order.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Reading a number/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Reading_a_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Reading a number/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Reading_a_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Reading a number/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Reading_a_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Theory/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Theory/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Theory/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Understanding System.in/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Understanding_System.in.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Understanding System.in/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Understanding_System.in.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/Scanning the input/Understanding System.in/Simple_Chatty_Bot_(Java).Topics-Scanning_the_input-Understanding_System.in.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/String/Check burgs/Simple_Chatty_Bot_(Java).Topics-String-Check_burgs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/String/Check burgs/Simple_Chatty_Bot_(Java).Topics-String-Check_burgs.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/String/Check burgs/Simple_Chatty_Bot_(Java).Topics-String-Check_burgs.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/String/Finding string expressions/Simple_Chatty_Bot_(Java).Topics-String-Finding_string_expressions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/String/Finding string expressions/Simple_Chatty_Bot_(Java).Topics-String-Finding_string_expressions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/String/Finding string expressions/Simple_Chatty_Bot_(Java).Topics-String-Finding_string_expressions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/String/Theory/Simple_Chatty_Bot_(Java).Topics-String-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/String/Theory/Simple_Chatty_Bot_(Java).Topics-String-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/String/Theory/Simple_Chatty_Bot_(Java).Topics-String-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Fizz Buzz/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Fizz_Buzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Fizz Buzz/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Fizz_Buzz.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Fizz Buzz/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Fizz_Buzz.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/From sum to product/Simple_Chatty_Bot_(Java).Topics-The_for-loop-From_sum_to_product.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/From sum to product/Simple_Chatty_Bot_(Java).Topics-The_for-loop-From_sum_to_product.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/From sum to product/Simple_Chatty_Bot_(Java).Topics-The_for-loop-From_sum_to_product.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Size of parts/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Size_of_parts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Size of parts/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Size_of_parts.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Size of parts/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Size_of_parts.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Statements/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Statements/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Statements/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Theory/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Theory/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/Topics/The for-loop/Theory/Simple_Chatty_Bot_(Java).Topics-The_for-loop-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/util/Simple_Chatty_Bot_(Java).util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/util/Simple_Chatty_Bot_(Java).util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/.idea/modules/util/Simple_Chatty_Bot_(Java).util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_3_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Array/Declarations/Zookeeper_(Java).Topics-Array-Declarations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Array/Declarations/Zookeeper_(Java).Topics-Array-Declarations.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Array/Declarations/Zookeeper_(Java).Topics-Array-Declarations.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Array/Initializing an array of integers/Zookeeper_(Java).Topics-Array-Initializing_an_array_of_integers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Array/Initializing an array of integers/Zookeeper_(Java).Topics-Array-Initializing_an_array_of_integers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Array/Initializing an array of integers/Zookeeper_(Java).Topics-Array-Initializing_an_array_of_integers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Array/Theory/Zookeeper_(Java).Topics-Array-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Array/Theory/Zookeeper_(Java).Topics-Array-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Array/Theory/Zookeeper_(Java).Topics-Array-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Abs method/Zookeeper_(Java).Topics-Calling_a_method-Abs_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Abs method/Zookeeper_(Java).Topics-Calling_a_method-Abs_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Abs method/Zookeeper_(Java).Topics-Calling_a_method-Abs_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Call me awesome/Zookeeper_(Java).Topics-Calling_a_method-Call_me_awesome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Call me awesome/Zookeeper_(Java).Topics-Calling_a_method-Call_me_awesome.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Call me awesome/Zookeeper_(Java).Topics-Calling_a_method-Call_me_awesome.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Theory/Zookeeper_(Java).Topics-Calling_a_method-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Theory/Zookeeper_(Java).Topics-Calling_a_method-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Calling a method/Theory/Zookeeper_(Java).Topics-Calling_a_method-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/Creating a primitive/Zookeeper_(Java).Topics-Primitive_and_reference_types-Creating_a_primitive.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/Creating a primitive/Zookeeper_(Java).Topics-Primitive_and_reference_types-Creating_a_primitive.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/Creating a primitive/Zookeeper_(Java).Topics-Primitive_and_reference_types-Creating_a_primitive.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/Null syntax/Zookeeper_(Java).Topics-Primitive_and_reference_types-Null_syntax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/Null syntax/Zookeeper_(Java).Topics-Primitive_and_reference_types-Null_syntax.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/Null syntax/Zookeeper_(Java).Topics-Primitive_and_reference_types-Null_syntax.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/Theory/Zookeeper_(Java).Topics-Primitive_and_reference_types-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/Theory/Zookeeper_(Java).Topics-Primitive_and_reference_types-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/Theory/Zookeeper_(Java).Topics-Primitive_and_reference_types-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/What does a reference type store/Zookeeper_(Java).Topics-Primitive_and_reference_types-What_does_a_reference_type_store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/What does a reference type store/Zookeeper_(Java).Topics-Primitive_and_reference_types-What_does_a_reference_type_store.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Primitive and reference types/What does a reference type store/Zookeeper_(Java).Topics-Primitive_and_reference_types-What_does_a_reference_type_store.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result (1)/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Determine_the_result__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result (1)/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Determine_the_result__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result (1)/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Determine_the_result__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Determine_the_result.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Determine_the_result.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Determine_the_result.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Squares of natural numbers/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Squares of natural numbers/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Squares of natural numbers/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Statements/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Statements/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Statements/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The largest element of a sequence/Zookeeper_(Java).Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The largest element of a sequence/Zookeeper_(Java).Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The largest element of a sequence/Zookeeper_(Java).Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Theory/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Theory/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Theory/Zookeeper_(Java).Topics-The_while_and_do-while_loops-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/Zookeeper_(Java).Zookeeper__Java_-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/Zookeeper_(Java).Zookeeper__Java_-task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/Zookeeper_(Java).Zookeeper__Java_-task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/classes/java/Zookeeper_(Java).Zookeeper__Java_-task-build-classes-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/classes/java/Zookeeper_(Java).Zookeeper__Java_-task-build-classes-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/classes/java/Zookeeper_(Java).Zookeeper__Java_-task-build-classes-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/generated/sources/annotationProcessor/java/Zookeeper_(Java).Zookeeper__Java_-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/generated/sources/annotationProcessor/java/Zookeeper_(Java).Zookeeper__Java_-task-build-generated-sources-annotationProcessor-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/generated/sources/annotationProcessor/java/Zookeeper_(Java).Zookeeper__Java_-task-build-generated-sources-annotationProcessor-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/generated/sources/headers/java/Zookeeper_(Java).Zookeeper__Java_-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/generated/sources/headers/java/Zookeeper_(Java).Zookeeper__Java_-task-build-generated-sources-headers-java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/generated/sources/headers/java/Zookeeper_(Java).Zookeeper__Java_-task-build-generated-sources-headers-java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/reports/tests/Zookeeper_(Java).Zookeeper__Java_-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/reports/tests/Zookeeper_(Java).Zookeeper__Java_-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/reports/tests/Zookeeper_(Java).Zookeeper__Java_-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/test-results/Zookeeper_(Java).Zookeeper__Java_-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/test-results/Zookeeper_(Java).Zookeeper__Java_-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/test-results/Zookeeper_(Java).Zookeeper__Java_-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/tmp/Zookeeper_(Java).Zookeeper__Java_-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/tmp/Zookeeper_(Java).Zookeeper__Java_-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper (Java)/task/build/tmp/Zookeeper_(Java).Zookeeper__Java_-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Zookeeper_(Java).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Zookeeper_(Java).util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Zookeeper_(Java).util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Zookeeper_(Java).util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Declarations/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Declarations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Declarations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Declarations/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Initializing an array of integers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Initializing an array of integers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Initializing an array of integers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Initializing an array of integers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Array/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Abs method/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Abs method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Abs method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Abs method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Call me awesome/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Call me awesome/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Call me awesome/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Call me awesome/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Calling a method/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Null syntax/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Null syntax/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Null syntax/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Null syntax/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The keyword/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The keyword/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The keyword/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The keyword/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/What does a reference type store/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/What does a reference type store/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/What does a reference type store/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/What does a reference type store/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_10353599703222195796_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_11909569269319816514_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_14058402237584976449_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_15436859402447124186_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_3791002179366706451_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_4083608762440785534_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_6120337053379699042_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_6659849443146456722_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_7047902527303621310_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_7593580835699480534_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_8007498646606869169_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/build/tmp/test/jar_extract_8232166053545171810_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zookeeper (Java)/task/task.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Downloads/eclipse-jee-2022-12-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_1.0.1.202211171559/node_modules/iconv-lite/.idea/iconv-lite.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/GameRunner/.idea/GameRunner.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Simple Chatty Bot (Java)/task/src/bot/SimpleBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Chatty Bot (Java)/Simple Chatty Bot (Java)/task/src/bot/SimpleBot.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N3bKd2S90XQxwcWPSa1naycpvS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Edu.Yaml.Migrate": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Zookeeper_(Java).Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Zookeeper_(Java).Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Zookeeper_(Java).Zookeeper__Java_-task.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Zookeeper (Java)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Zookeeper (Java)" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5993a88d-f2df-4bb5-8926-bfc5930023f4" name="Changes" comment="" />
+      <created>1678895649204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678895649204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
